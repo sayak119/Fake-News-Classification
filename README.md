@@ -4,7 +4,7 @@
 
 * LIAR-PLUS is a benchmark dataset for fake news detection, released recently.
 * This dataset has evidence sentences extracted automatically from the full-text verdict report written by journalists in **Politifact**.
-* It consists of **12,836** short statements taken from POLITIFACT and labeled by humans for truthfulness, subject, context/venue, speaker, state, party, and prior history.
+* It consists of **12,836** short statements taken from **Politifact** and labeled by humans for truthfulness, subject, context/venue, speaker, state, party, and prior history.
 * For truthfulness, the LIAR dataset has six labels: **pants-fire**, **false**, **mostly-false**, **half-true**, **mostly-true** and **true**.
 * These six label sets are relatively balanced in size.
 * There are two tasks:
